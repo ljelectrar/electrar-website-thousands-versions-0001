@@ -1,4 +1,4 @@
-# Cabeçalho de Site Prof. Leandro Jr (Primeira Versão)
+# Site completo Electrar Growth Hacking (Segunda Versão)
 
 ## Sobre o Projeto
 
